@@ -33,7 +33,7 @@ Moreover, the intensity tracks are almost identical to the one computed by CNMFe
 Hung-Yun Lu, Anil Bollimunta, Ryan W. Eaton, John H. Morrison, Karen A. Moxon, Jose M. Carmena, Jonathan J. Nassi, Samantha R. Santacruz. 2021 IEEE Engineering in Medicine & Biology Society (EMBC)
 
 ## Reference
-[1] CaImAn an open source tool for scalable calcium imaging data analysis. Giovannucci, 2019 eLife.
-[2] Efficient and accurate extraction of in vivo calcium signals from microendoscopic video data. Zhou, 2018, eLife
-[3] Online analysis of microendoscopic 1-photon calcium imaging data streams. Friedrich, 2021 Plos Computational Biology
+[1] CaImAn an open source tool for scalable calcium imaging data analysis. Giovannucci, 2019 eLife\
+[2] Efficient and accurate extraction of in vivo calcium signals from microendoscopic video data. Zhou, 2018, eLife\
+[3] Online analysis of microendoscopic 1-photon calcium imaging data streams. Friedrich, 2021 Plos Computational Biology\
 [4] Head-mounted microendoscopic calcium imaging in dorsal premotor cortex of behaving rhesus macaque. Bollimunta and Santacruz, 2021 Cell Reports
